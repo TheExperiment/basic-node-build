@@ -1,1 +1,1 @@
-# basic-node-build
+# A simple nodejs starter project
